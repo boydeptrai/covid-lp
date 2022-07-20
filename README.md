@@ -1,0 +1,2 @@
+- building a landing page using html, css, and javascript. The page we are building is to help raise awareness and prevention for covid-19.
+- link Figma: https://drive.google.com/file/d/130iXVVRr7KsZQZlocmKd5d3EQj1nqAl7/view
